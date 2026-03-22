@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Casa en Las Condes",
+    "type": "Casa",
+    "price": 270000000,
+    "rooms": 4,
+    "bathrooms": 3,
+    "location": "Santiago, Las Condes"
+  },
+  {
+    "id": 3,
+    "name": "Parcela en Paine",
+    "type": "Parcela",
+    "price": 180000000,
+    "rooms": 3,
+    "bathrooms": 2,
+    "location": "Paine"
+  },
+  {
+    "id": 4,
+    "name": "Casa en Viña del Mar",
+    "type": "Casa",
+    "price": 300000000,
+    "rooms": 5,
+    "bathrooms": 4,
+    "location": "Viña del Mar"
+  },
+  {
+    "id": 5,
+    "name": "Departamento en La Serena",
+    "type": "Departamento",
+    "price": 90000000,
+    "rooms": 1,
+    "bathrooms": 1,
+    "location": "La Serena"
+  },
+  {
+    "id": 6,
+    "name": "Nueva Oficina",
+    "type": "Oficina",
+    "price": 50000000,
+    "rooms": 2,
+    "bathrooms": 1,
+    "location": "Santiago Centro"
+  }
+]
